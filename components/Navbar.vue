@@ -12,7 +12,7 @@
         NEWS
       </div>
       <div class="tw-text-xl tw-text-black tw-font-bold tw-cursor-pointer">
-        BLOG
+        Post
       </div>
     </div>
   </div>
